@@ -20,5 +20,5 @@ Projeto desenvolvido no bloco 1 de Fundamentos de Desenvolvimento Web.
 
 ## Gif do projeto:
 <p align="center">
-  <img  src="" alt="Lessons Learned Gif"/>
+  <img  src="https://github.com/marianasaraiva/trybe-project-lessons-learned/blob/main/Lessons_learned.gif" alt="Lessons Learned Gif"/>
 </p>
